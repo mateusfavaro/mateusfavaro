@@ -6,7 +6,19 @@
   <a href="https://wa.me/5516997871357?text=Olá,%20vim%20pelo%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-1B9C4B?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-##
+<br>
+
+## Sobre mim
+
+Sou apaixonado por tecnologia desde a infância, mas minha formação inicial foi em Direito. Atuo na área jurídica desde 2018, tornando-me advogado em 2021, e atualmente trabalho no setor jurídico do Banco Bradesco, focado em processos de execução.
+
+Mesmo com a carreira jurídica, sempre programei por hobby. No final de 2025 decidi transformar essa paixão em profissão e me dedicar de forma estruturada ao aprendizado de programação. Hoje estudo C# e estou desenvolvendo uma API em .NET para gestão de clientes de um escritório de advocacia.
+
+Meu objetivo é evoluir continuamente como desenvolvedor e construir uma carreira sólida na tecnologia, aplicando a mesma dedicação e compromisso que sempre tive no Direito.
+
+<br>
+
+## Skills
 
 <div align="center"><br>
   <img align="center" alt="Csharp" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/csharp.svg">
