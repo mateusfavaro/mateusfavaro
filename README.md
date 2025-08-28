@@ -8,7 +8,7 @@
 
 <br>
 
-## Sobre mim
+## 👤 Sobre mim
 
 Sou apaixonado por tecnologia desde a infância, mas minha formação inicial foi em Direito. Atuo na área jurídica desde 2018, tornando-me advogado em 2021, e atualmente trabalho no setor jurídico do Banco Bradesco, focado em processos de execução.
 
@@ -18,7 +18,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e construir uma carreir
 
 <br>
 
-## Skills
+## 🛠️ Skills
 
 <div align="center"><br>
   <img align="center" alt="Csharp" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/csharp.svg">
