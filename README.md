@@ -1,4 +1,4 @@
-## <p align="center">Mateus Fávaro | Desenvolvedor em formação | Back-end Development</p>
+## <p align="center">Mateus Fávaro | Full-stack Development</p>
 
 
 <p align="center">
@@ -11,11 +11,13 @@
 
 ## 👤 Sobre mim
 
-Sou apaixonado por tecnologia desde a infância, mas minha formação inicial foi em Direito. Atuo na área jurídica desde 2018, tornando-me advogado em 2021, e atualmente trabalho no setor jurídico do Banco Bradesco, focado em processos de execução.
+Sou apaixonado por tecnologia desde a infância, porém minha graduação inicial foi em Direito. Me formei em 2021 e, desde então, atuei exclusivamente na área jurídica.
 
-Mesmo com a carreira jurídica, sempre programei por hobby. Em 2025 decidi transformar essa paixão em profissão e me dedicar de forma estruturada ao aprendizado de programação. Hoje estudo C# e estou desenvolvendo uma API em .NET para gestão de clientes de um escritório de advocacia.
+Com o tempo, decidi migrar para a área de tecnologia e passei a me dedicar aos estudos de desenvolvimento back-end e, posteriormente, front-end.
 
-Meu objetivo é evoluir continuamente como desenvolvedor e construir uma carreira sólida na tecnologia, aplicando a mesma dedicação e compromisso que sempre tive no Direito.
+Atualmente, trabalho como desenvolvedor Full-Stack .NET em uma empresa que desenvolve sistemas de prestação de contas e monitoramento de verbas e serviços públicos.
+
+
 
 <br>
 
