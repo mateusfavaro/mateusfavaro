@@ -12,7 +12,7 @@ Over the years, I decided to transition into tech and started studying **back-en
 
 Today, I work as a **Full-Stack .NET developer** at a company focused on building systems for public fund accountability and service monitoring.  
 
-- Currently working with **C#/.NET and SAPUI5**
+- Currently working with **C# / .NET and SAPUI5**
 
 ## Tech Stack
 
