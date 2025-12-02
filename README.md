@@ -1,5 +1,4 @@
-## <p align="center">Mateus Fávaro | Full-stack Development</p>
-
+# Hi, I'm Mateus Favaro
 
 <p align="center">
   <a href="https://instagram.com/mateushfavaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -7,31 +6,37 @@
   <a href="https://wa.me/5516997871357?text=Olá,%20vim%20pelo%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-1B9C4B?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<br>
+I'm passionate about technology since childhood, even though my first degree was in Law. I graduated in 2021 and worked exclusively in the legal field for some time.
 
-## 👤 Sobre mim
+Over the years, I decided to transition into tech and started studying **back-end development**, and later **front-end** as well.
 
-Sou apaixonado por tecnologia desde a infância, porém minha graduação inicial foi em Direito. Me formei em 2021 e, desde então, atuei exclusivamente na área jurídica.
+Today, I work as a **Full-Stack .NET developer** at a company focused on building systems for public fund accountability and service monitoring.  
 
-Com o tempo, decidi migrar para a área de tecnologia e passei a me dedicar aos estudos de desenvolvimento back-end e, posteriormente, front-end.
+- Currently working with **C#/.NET and SAPUI5**
 
-Atualmente, trabalho como desenvolvedor Full-Stack .NET em uma empresa que desenvolve sistemas de prestação de contas e monitoramento de verbas e serviços públicos.
+## Tech Stack
 
+**Backend:**
+`C#` `.NET` `Entity Framework` `Python` `DDD`
 
+**Cloud & DevOps:**
+`Azure` `GitHub Actions`
 
-<br>
+**Frontend:**
+`SAPUI5` `HTML` `XML` `CSS` `JavaScript`
 
-## 🛠️ Skills
+**Databases:**
+`My SQL` `SQL Server` `MongoDB`
 
-<div align="center"><br>
-  <img align="center" alt="Csharp" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/csharp.svg">
-  <img align="center" alt="Dotnet" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/dotnet.svg">
-  <img align="center" alt="Python" height="110" width="130" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/python.svg">
-  <img align="center" alt="Python" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/mysqlserver.svg">
-</div>
+## Projects
+`Cash Flow:` *API in .NET 8 for managing personal expenses with DDD, unit testing, and Excel reports. Stores data via MySQL. **(Work in progress)***
 
-<div align="center"><br>
-  <img align="center" alt="Csharp" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/github.svg">
-  <img align="center" alt="Dotnet" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/VS.svg">
-  <img align="center" alt="Python" height="100" width="120" src="https://raw.githubusercontent.com/mateusfavaro/mateusfavaro/refs/heads/master/assets/icons/Windows.svg">
-</div>
+## Courses & Training
+
+`Graduação` *Analise e desenvolvimento de sistemas - Nov 2025 – Present*  
+`RocketSeat:` *Lógica de programação (Python)*  
+`RocketSeat:` *Formação completa em C# / .NET (Professor Welisson Arley)*  
+`RocketSeat:` *Formação Full-Stack*  
+`Balta.io:` *Fundamentos do C#*  
+`Udemy.com:` *C# COMPLETO Programação Orientada a Objetos*  
+
