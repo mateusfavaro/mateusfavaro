@@ -33,7 +33,7 @@ Today, I work as a **Full-Stack .NET developer** at a company focused on buildin
 
 ## Courses & Training
 
-`Graduação` *Analise e desenvolvimento de sistemas - Nov 2025 – Present*  
+`Graduação:` *Analise e desenvolvimento de sistemas - Nov 2025 – Present*  
 `RocketSeat:` *Lógica de programação (Python)*  
 `RocketSeat:` *Formação completa em C# / .NET (Professor Welisson Arley)*  
 `RocketSeat:` *Formação Full-Stack*  
