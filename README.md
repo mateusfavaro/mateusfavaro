@@ -19,11 +19,11 @@ Today, I work as a **Full-Stack .NET developer** at a company focused on buildin
 **Backend:**
 `C#` `.NET` `Entity Framework` `Python` `DDD`
 
-**Cloud & DevOps:**
-`Azure` `GitHub Actions`
-
 **Frontend:**
 `SAPUI5` `HTML` `XML` `CSS` `JavaScript`
+
+**Cloud & DevOps:**
+`Azure` `GitHub Actions`
 
 **Databases:**
 `My SQL` `SQL Server` `MongoDB`
