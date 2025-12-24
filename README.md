@@ -43,6 +43,7 @@ Today, I work as a **Full-Stack .NET developer** at a company focused on buildin
 `RocketSeat:` *Lógica de programação (Python)*  
 `RocketSeat:` *Formação completa em C# / .NET (Professor Welisson Arley)*  
 `RocketSeat:` *Formação Full-Stack*  
-`Balta.io:` *Fundamentos do C#*  
 `Udemy.com:` *C# COMPLETO Programação Orientada a Objetos*  
+`Udemy.com:` *.NET Core: um curso orientado para o mercado de trabalho (Professor Welisson Arley)*  
+`Balta.io:` *Fundamentos do C#*  
 
