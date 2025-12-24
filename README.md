@@ -35,7 +35,9 @@ Today, I work as a **Full-Stack .NET developer** at a company focused on buildin
 `My SQL` `SQL Server` `MongoDB`
 
 ## Projects
-`Cash Flow:` *API in .NET 8 for managing personal expenses with DDD, unit testing, and Excel reports. Stores data via MySQL. **(Work in progress)***
+`Cash Flow:` *API in .NET 8 for managing personal expenses with DDD, unit testing, and Excel reports. Stores data via MySQL. **(Work in progress)***  
+
+`AppointmentBook:` *API in .NET 8 for scheduling healthcare-focused services with domain-driven design. Stores data via MongoDB **(Work in progress)***  
 
 ## Courses & Training
 
