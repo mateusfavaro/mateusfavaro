@@ -26,7 +26,7 @@ Today, I work as a **Full-Stack .NET developer** at a company focused on buildin
 `C#` `.NET` `Entity Framework` `Python` `DDD`
 
 **Frontend:**
-`SAPUI5` `HTML` `XML` `CSS` `JavaScript`
+`SAPUI5` `REACT` `HTML` `XML` `CSS` `JavaScript`
 
 **Cloud & DevOps:**
 `Azure` `GitHub Actions`
