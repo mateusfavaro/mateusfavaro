@@ -12,11 +12,9 @@
   
 </p>
 
-I'm passionate about technology since childhood, even though my first degree was in Law. I graduated in 2021 and worked exclusively in the legal field for some time.
+Full Stack Developer in the .NET ecosystem, with a strong focus on C# and ASP.NET/.NET Core for building robust, scalable, and high-performance web applications. 
 
-Over the years, I decided to transition into tech and started studying **back-end development**, and later **front-end** as well.
-
-Today, I work as a **Full-Stack .NET developer** at a company focused on building systems for public fund accountability and service monitoring.  
+Experienced with both SQL and NoSQL databases, contributing to efficient and flexible architectural decisions across different project contexts.
 
 - Currently working with **C# / .NET and SAPUI5**
 
@@ -35,9 +33,9 @@ Today, I work as a **Full-Stack .NET developer** at a company focused on buildin
 `My SQL` `SQL Server` `MongoDB`
 
 ## Projects
-`Cash Flow:` *API in .NET 8 for managing personal expenses with DDD, unit testing, and Excel reports. Stores data via MySQL. **(Work in progress)***  
+`DropshippingCatalog:` *Platform where companies register and manage their products so reseller partners can publish them across marketplace platforms, centralizing catalog distribution and product availability workflows. Built with a robust and scalable .NET 8 API on the backend and a modern React frontend, delivering an efficient and user-friendly experience. **(Private project, fully completed).***  
 
-`AppointmentBook:` *API in .NET 8 for scheduling healthcare-focused services with domain-driven design. Stores data via SQL SERVER **(Work in progress)***  
+`MonetaryExpenseManager:` *Mobile application for monthly personal finance management, designed to help users track income and expenses in a practical and organized way. The app provides built-in financial reports and PDF export features, offering better visibility and control over personal finances. Built with Flutter, it uses SQLite for local cached storage and Supabase for cloud-based persistence. **(Private project, fully completed, and currently in production).***  
 
 ## Courses & Training
 
