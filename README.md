@@ -23,7 +23,7 @@ Experienced with both SQL and NoSQL databases, contributing to efficient and fle
 `C#` `.NET` `Entity Framework` `Python` `DDD`
 
 **Frontend:**
-`SAPUI5` `REACT` `HTML` `CSS` `JavaScript`
+`SAPUI5` `REACT` `HTML` `CSS` `JavaScript` `TypeScript`
 
 **Cloud & DevOps:**
 `Azure` `GitHub Actions`
